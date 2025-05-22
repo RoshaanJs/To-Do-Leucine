@@ -3,11 +3,6 @@ A *simple Task Management Application* built using *Spring Boot, PostgreSQL, Doc
 
 ---
 
-## *🚀 Live Demo*  
-🔗 *[Click here to access the deployed app](https://task-management-tbz6.onrender.com)*  
-
----
-
 ## *📌 Features*  
 ✅ Add New Tasks  
 ✅ View All Tasks  
